@@ -1,0 +1,305 @@
+<meta name="viewport" content="width=device-width">
+<!-----------------------DO NOT CHANGE OR MODIFY BELOW CODE--------------------------------->
+<style>@import url("https://fonts.googleapis.com/css?family=Abril Fatface");
+div.container{background: #ffffff; font-family: Times; width: 80%; margin: 0 auto; color: #353333;font-size: 8px;}
+#header{background: url("https://i.ibb.co/kcwhJhg/Red-and-White-Festive-Christmas-Sale-Banner-1.png");
+ background-size: cover; background-position: top center; border-bottom: 1px #e1e1e2 solid; background-repeat: no-repeat; padding: 20px; height: 400px; color: #FFFFFF; clear: left; text-align: center; border-radius: 10px 10px 0px 0px; display: flex; justify-content: center; align-items: center;}
+#footer{background: url("https://i.ibb.co/rc595mh/Beige-Red-Festive-Christmas-Sale-Etsy-Shop-Cover.png"); background-size: cover; background-position: bottom center; border-top: 3px #FF0000 solid; background-repeat: no-repeat; padding: 20px; height: 250px; clear: left; text-align: center; border-radius: 0px 0px 10px 10px;text-shadow: 2px 2px 5px #000000; display: flex; justify-content: center; align-items: center;}
+#article{text-align: center; margin-top: 30px
+
+  0px;}#article a{text-decoration: none;color: #383636;} @media screen and (max-width: 100px) {div.container{width: 50%;}}
+@media all and (max-width: 100px) {
+    #gallery label {
+        display: block;
+        width: 50%;
+        height: auto;
+    }
+}
+
+@media all and (max-width: 100px) {
+    #gallery label {
+        width: 98%;
+    }
+
+    #gallery label img {
+        height: auto;
+        width: 50%;
+    }
+}
+
+@media all and (max-width: 375px) {
+    #gallery label {
+        width: 50%;
+    }
+
+    #gallery label img {
+        height: auto;
+        width: 50%;
+    }
+}
+
+@media all and (max-width: 100px) {
+    #gallery label {
+        width: 50%;
+    }
+
+    #gallery label img {
+        height: auto;
+        width: 100%;
+    }
+}
+
+@media all and (min-width: 700px) {
+    #gallery label img {
+        width: 100%;
+        height: auto;
+    }
+
+}
+#sd{padding: 20px 0;font-size: 12px;width: 90%;border-radius: 0 0 6px 6px;margin: 0 auto; font-family: 'Times New Roman', Times, serif; !important;}
+.btn {font-size: 14px;padding: 7px 10px;background-color: #FF0000;border: 1px solid #434a4c;color: #FFFFFF;text-decoration: none;display: inline;border-radius: 4px;font-weight: bold;border-radius: 5px 0px 5px 0px;-webkit-transition: background-color 1s ease;-moz-transition: background-color 1s ease;transition: background-color 1s ease;}
+#clear{clear: both;}#descrbox{float:right;width:75%;}#sidebox{float:left;width:25%;} @media screen and (max-width: 480px) {#descrbox, #sidebox{width:99%;}.triangle-r{display:none;}#mobtitle{font-size: 1.3em !important;}}
+#h1{text-shadow: 2px 2px 5px #000000;font-family: Abril Fatface;font-size: 4em;margin:0px;color: #FFFFFF;} #p{padding:20px;font-size: 12px;}
+@media screen and (max-width: 767px){div.container{width: 100% !important;} #header, #footer{padding: 1em;} #h1{font-size: 3em;}.triangle-r{display:none;}}
+ul.topnav {list-style-type: none;margin: 0;padding: 0;overflow: hidden;background-color: #FF0000;font-family: sans-serif !important;text-transform: uppercase;border-bottom: 1px #6d6d6d solid;}
+ul.topnav li {float: left;border-right: 1px solid #a1a0a0;}ul.topnav li a {display: block;color: #000;text-align: center;padding: 14px 16px;font-size: 10px;font-weight: bold;text-decoration: none;}
+ul.topnav li:hover:not(:first-child) a{background-color: #f3ebeb;color:#000;}ul.topnav li:first-child a{background-color: #4CAF50;}ul.topnav li:nth-child(5) {float: right;border-left: 1px solid #a1a0a0;}
+@media screen and (max-width: 600px){ul.topnav li:nth-child(5),ul.topnav li {float: none;}}
+ul.sidenav {list-style-type: none;margin-top: 0px;padding: 0;width: 100%;}ul.sidenav li a {display: block;color: #000;padding: 8px 16px;text-decoration: none;text-align: left;}
+ul.sidenav li {text-align: center;border-bottom: 1px solid #555;}ul.sidenav li:last-child {border-bottom: none;}ul.sidenav li a:hover{background-color: #555;color: #fff !important;}
+#lbnr{border: 1px #ccc solid;border-radius: 6px; width:95%;margin: 0 auto;background: #fff;-moz-border-radius: 10px;-khtml-border-radius: 10px;-webkit-border-radius: 10px;-moz-box-shadow: 0px 0px 8px rgba(0,0,0,0.3);-khtml-box-shadow: 0px 0px 8px rgba(0,0,0,0.3);-webkit-box-shadow: 0px 0px 8px rgba(0,0,0,0.3);}
+#lbnr img{width:95%;} .bubble {clear: both;margin: 20px auto;width: 95%;background: #fff;-moz-border-radius: 10px;-khtml-border-radius: 10px;-webkit-border-radius: 10px;-moz-box-shadow: 0px 0px 8px rgba(0,0,0,0.3);-khtml-box-shadow: 0px 0px 8px rgba(0,0,0,0.3);-webkit-box-shadow: 0px 0px 8px rgba(0,0,0,0.3);position: relative;z-index: 90;border: 1px solid #dad9d9;}
+.rectangle {background: #FF0000;height: px;width: 104%;position: relative;left:-15px;top: 10px;-moz-box-shadow: 0px 0px 4px rgba(0,0,0,0.55);-khtml-box-shadow: 0px 0px 4px rgba(0,0,0,0.55);-webkit-box-shadow: 0px 0px 4px rgba(0,0,0,0.55);z-index: 100;border-radius: 5px 5px 0 0;}
+.triangle-l {border-color: transparent #737373 transparent transparent;border-style:solid;border-width:15px;height:0px;width:0px;position: relative;float: left;left: -30px;top: -5px;z-index: 5;}
+.triangle-r {border-color: transparent transparent transparent #737373;border-style:solid;border-width:15px;height:0px;width:0px;position: relative;float: right;right: -30px;top: -5px;z-index: 5;}
+h2{margin: 0 auto;padding: 5px 0px 5px 0px;font-family: Abril Fatface;font-size: 15;color: #FFFFFF;text-shadow: 2px 2px 5px #000000;}</style>
+
+
+<!-----------------------DO NOT CHANGE OR MODIFY ABOVE CODE--------------------------------->
+<div id="temp" class="container"><header id="header"><h1 id="h1">
+<!-------------------STORE NAME--START--------------------->
+
+
+
+<!-------------------STORE NAME--END--------------------->
+</h1></header><article><ul class="topnav">
+<!-------------------TOP MENU BAR--START----------------->
+
+<li><a href="https://www.ebay.com/str/holylandblessings" target="_blank">Visit Our Store</a></li>
+<li><a href="https://www.ebay.com/str/holylandblessings?_tab=about" target="_blank">About Us</a></li>
+<li><a href="https://www.ebay.com/str/holylandblessings?_tab=feedback" target="_blank">Feedback</a></li>
+<li><a href="https://www.ebay.com/cnt/intermediatedFAQ?requested=holyland.blessings" target="_blank">Contact Us</a></li>
+
+<!-------------------TOP MENU BAR---END------------------>
+</ul></article><div id="descrbox"><article id="article" class="bubble">
+<div class="rectangle"><h2 id="mobtitle"><font size="5">The Nativity Story Ornaments</font></h2></div><div class="triangle-r"></div>
+<div id="gallery"><div id="thumb">
+<!-------------------PRODUCT IMAGE SECTION START------------------->
+<!----Please check manual for more information--------->
+<div id="product-images-section" style="text-align: center; margin-bottom: 20px;">
+    
+    <!-- Main Caption for the Collection -->
+    <h3 style="font-family: 'Times New Roman', serif; font-size: 18px; color: #353333; margin-bottom: 15px;"><b style="color: rgb(127, 22, 14); font-size: large;"><i>The Nativity Story Collection Ornaments Set<br></i>Material: Genuine Olive Wood<br></b><b style="font-size: large; color: rgb(127, 22, 14);">Quantity: 12<br></b><b style="font-size: large; color: rgb(127, 22, 14);">Weight: 300g</b></h3><div style="display: inline-block; text-align: center; margin: 10px;">
+        <!-- Image for Product 1 -->
+        <label><img alt="Image1" src="https://i.ibb.co/YR9dwrg/set-12.jpg" style="width: auto; max-width: 500px; height: auto;"></label>
+    </div>
+    
+    <!-- Product 2 with Caption -->
+    <div style="display: inline-block; text-align: center; margin: 10px;">
+        <!-- Caption for Product 2 -->
+        <p style="font-family: &quot;Times New Roman&quot;, serif;"><b style=""><font color="#7f160e" style="" size="4">Virgin Mary &amp; St. Joseph Find a Place For Jesus Birth <br>Shape: Star <br>Dimensions: 7.5 X 5 cm</font></b></p>
+        <!-- Image for Product 2 -->
+        <label><img alt="Image2" src="https://i.ibb.co/NKHrSC4/7.png" style="width: auto; max-width: 500px; height: auto;"></label>
+    </div>
+    
+    <!-- Product 3 with Caption -->
+    <div style="display: inline-block; text-align: center; margin: 10px;">
+        <!-- Caption for Product 3 -->
+        <p style="font-family: &quot;Times New Roman&quot;, serif;"><b style=""><font color="#7f160e" style="" size="4">Jesus Laid in Manger Top of Tree <br>Shape: Star <br>Dimensions: 15.5 X 15.5 cm</font></b></p>
+        <!-- Image for Product 3 -->
+        <label><img alt="Image3" src="https://i.ibb.co/sFVf8WK/DSC00633-Photoroom.png" style="width: auto; max-width: 500px; height: auto;"></label>
+    </div>
+
+    <!-- Product 4 with Caption -->
+    <div style="display: inline-block; text-align: center; margin: 10px;">
+        <!-- Caption for Product 3 -->
+        <p style="font-family: &quot;Times New Roman&quot;, serif;"><b style=""><font color="#7f160e" style="" size="4">Angle Trumpet with Happiness <br>Shape: House <br>Dimensions: 5.5 X 7.5 cm</font></b></p>
+        <!-- Image for Product 3 -->
+        <label><img alt="Image3" src="https://i.ibb.co/5RJJMmn/21.png" style="width: auto; max-width: 500px; height: auto;"></label>
+    </div>
+
+    <!-- Product 5 with Caption -->
+    <div style="display: inline-block; text-align: center; margin: 10px;">
+        <!-- Caption for Product 3 -->
+        <p style="font-family: &quot;Times New Roman&quot;, serif;"><b style=""><font color="#7f160e" style="" size="4">Angles announce to Shepherds X Nativity Scene <br>Shape: Oval <br>Dimensions: 7.5 X 6.5 cm</font></b></p>
+        <!-- Image for Product 3 -->
+        <label><img alt="Image3" src="https://i.ibb.co/C6swJQf/16.png" style="width: auto; max-width: 500px; height: auto;"></label>
+    </div>
+
+    <!-- Product 6 with Caption -->
+    <div style="display: inline-block; text-align: center; margin: 10px;">
+        <!-- Caption for Product 3 -->
+        <p style="font-family: &quot;Times New Roman&quot;, serif;"><font size="4" style="" color="#7f160e"><b>Magi follow the star to Bethlehem <br>Shape: Horizontal Oval <br>Dimensions: 7.5 X 6.5 cm</b></font></p>
+        <!-- Image for Product 3 -->
+        <label><img alt="Image3" src="https://i.ibb.co/Hq5FDzp/22.png" style="width: auto; max-width: 500px; height: auto;"></label>
+    </div> 
+
+    <!-- Product 7 with Caption -->
+    <div style="display: inline-block; text-align: center; margin: 10px;">
+        <!-- Caption for Product 3 -->
+        <p style="font-family: &quot;Times New Roman&quot;, serif;"><font size="4" style="" color="#7f160e"><b style="">Magi Presenting Gifts <br>Shape: Bell <br>Dimensions: 7.5 X 5 cm</b></font></p>
+        <!-- Image for Product 3 -->
+        <label><img alt="Image3" src="https://i.ibb.co/nPCwdg8/11.png" style="width: auto; max-width: 500px; height: auto;"></label>
+    </div>
+
+    <!-- Product 8 with Caption -->
+    <div style="display: inline-block; text-align: center; margin: 10px;">
+        <!-- Caption for Product 3 -->
+        <p style="font-family: &quot;Times New Roman&quot;, serif;"><font size="4" style="" color="#7f160e"><b>Nativity Scene X Angel <br>Shape: House <br>Dimensions: 5.5 X 7.5 cm</b></font></p>
+        <!-- Image for Product 3 -->
+        <label><img alt="Image3" src="https://i.ibb.co/pyyr8QC/3.png" style="width: auto; max-width: 500px; height: auto;"></label>
+    </div>
+
+    <!-- Product 9 with Caption -->
+    <div style="display: inline-block; text-align: center; margin: 10px;">
+        <!-- Caption for Product 3 -->
+        <p style="font-family: &quot;Times New Roman&quot;, serif;"><font size="4" style="" color="#7f160e"><b style="">Fight to Egypt <br>Shape: House <br>Dimensions: 6.5 X 7 cm</b></font></p>
+        <!-- Image for Product 3 -->
+        <label><img alt="Image3" src="https://i.ibb.co/Tt0L0c0/10.png" style="width: auto; max-width: 500px; height: auto;"></label>
+    </div>
+
+    <!-- Product 10 with Caption -->
+    <div style="display: inline-block; text-align: center; margin: 10px;">
+        <!-- Caption for Product 3 -->
+        <p style="font-family: &quot;Times New Roman&quot;, serif;"><font size="4" style="" color="#7f160e"><b style="">Holy Family Sending Love <br>Shape: Star <br>Dimensions: 8.5 X 8.5 cm</b></font></p>
+        <!-- Image for Product 3 -->
+        <label><img alt="Image3" src="https://i.ibb.co/tQsnvz2/8.png" style="width: auto; max-width: 500px; height: auto;"></label>
+    </div>   
+
+    <!-- Product 11 with Caption -->
+    <div style="display: inline-block; text-align: center; margin: 10px;">
+        <!-- Caption for Product 3 -->
+        <p style="font-family: &quot;Times New Roman&quot;, serif;"><font size="4" style="" color="#7f160e"><b style="">Candle Lighted to Celebrate this Blessing <br>Shape: Bell <br>Dimensions: 5.5 X 3.3 cm</b></font></p>
+        <!-- Image for Product 3 -->
+        <label><img alt="Image3" src="https://i.ibb.co/whjjSWy/9.png" style="width: auto; max-width: 500px; height: auto;"></label>
+    </div>
+
+    <!-- Product 12 with Caption -->
+    <div style="display: inline-block; text-align: center; margin: 10px;">
+        <!-- Caption for Product 3 -->
+        <p style="font-family: &quot;Times New Roman&quot;, serif;"><font size="4" style="" color="#7f160e"><b style="">Angle Praying For People X 2 <br>Shape: Angle <br>Dimensions: 5.5 X 3 cm</b></font></p>
+        <!-- Image for Product 3 -->
+        <label><img alt="Image3" src="https://i.ibb.co/TRrfsbq/17.png" style="width: auto; max-width: 500px; height: auto;"></label>
+    </div>
+
+</div>
+<!-------------------PRODUCT IMAGE SECTION END------------------->
+
+</div></div></article><article id="article" class="bubble"><div class="rectangle">
+<h2 id="h2"><font size="5">Description</font></h2></div><div class="triangle-l"></div><div class="triangle-r"></div><p><strong><br></strong></p><p><font size="4">Celebrate the true meaning of Christmas with this exquisite Nativity Story Ornament Collection, carefully crafted from authentic olive wood sourced directly from Bethlehem, the sacred birthplace of Jesus. Each piece in this collection beautifully depicts a key moment from the Bible’s Nativity sequence, allowing you to journey through the <b>miraculous events</b> that unfolded <b>over 2,000 years ago.</b></font></p><p><font size="4">From Mary and Joseph’s journey to Bethlehem, the joyful announcement to the shepherds, the reverent visit of the Magi guided by the star, to the humble scene of Jesus in the manger – each ornament captures a piece of the story, transforming your Christmas tree into a display of faith and tradition. Every detail is meticulously carved by skilled artisans from Christian families in Bethlehem, bringing authenticity and craftsmanship to your holiday decorations.</font></p><p><strong><font size="4" color="#7f160e">What’s Included:</font></strong></p><ul><li><font size="4">A full collection of twelve ornaments, each symbolizing a chapter in the Nativity story.</font></li><li><font size="4">Unique shapes, including stars, bells, and ovals, that enhance the visual appeal of your tree or home decor.</font></li><li><font size="4">Depictions of angels, the Holy Family, the shepherds, and the journey to Egypt, allowing you to relive each sacred event with every glance.</font></li></ul><p><font size="4"><font color="#7f160e"><strong>Why This Collection is Special?</strong><br></font>These ornaments are not only beautiful Christmas decorations but also meaningful symbols of hope, love, and peace. As each piece is crafted from olive wood, the very same wood type mentioned throughout the Bible, you’re bringing a piece of the Holy Land into your home. This collection is an heirloom set that can be cherished for generations, reminding your family of the Christmas story and the true spirit of the holiday.</font></p><p><font size="4"><i>Add a touch of history, faith, and authenticity to your Christmas this year with a collection that honors the birth of Jesus and supports the artisans who live in His birthplace.</i></font></p><p></p><p></p></article><article id="article" class="bubble"><div class="rectangle"><br></div></article><article id="article" class="bubble"><div class="rectangle">
+<h2 id="h2"><font size="5">Return Policy</font></h2></div><div class="triangle-l"></div><div class="triangle-r"></div><p id="p"><font size="4">I personally inspect every item to ensure top quality. However, if you are not completely satisfied with your purchase, please contact me first. I’m committed to resolving any issues and ensuring your satisfaction. I offer a <strong style="">100% satisfaction guarantee</strong>. Returns are accepted within <strong style="">14 days</strong>, provided the item is in its original condition and packaging. Please note that buyers are responsible for return shipping costs and any additional fees, such as taxes.</font><br><!-------------------RETURN POLICY END------------------->
+</p></article><article id="article" class="bubble"><div class="rectangle">
+<h2 id="h2"><font size="5">Shipping Policy</font></h2></div><div class="triangle-l"></div><div class="triangle-r"></div><p id="p"><font size="4">I offer <strong style="">worldwide shipping</strong> via Registered Mail with a tracking number for your peace of mind. Delivery typically takes up to <strong style="">15 business days</strong>, depending on the destination. Please be aware that any customs duties, taxes, or additional fees are the responsibility of the buyer.<br><!-------------------SHIPPING DETAILS END------------------->
+</font></p></article><article id="article" class="bubble"><div class="rectangle">
+<h2 id="h2"><font size="5">Feedback</font></h2></div><div class="triangle-l"></div><div class="triangle-r"></div><p id="p"><font size="4">Your satisfaction is my priority! I always leave <strong style="">positive feedback</strong> as soon as payment is received. If any issues arise, please contact me before leaving feedback. I’m here to assist and will do my best to resolve any problems and ensure a positive experience.</font><br><!-------------------FEEDBACK DETAILS END------------------->
+</p></article></div><!---SIDE BOX--->
+<div id="sidebox"><article id="article" class="bubble">
+    
+<div class="rectangle">  <h2 id="h2"><font size="5">Related Products</font></h2>
+    </div>
+    <div class="triangle-l"></div>
+    <div class="triangle-r"></div>
+    <div id="related-products" style="text-align: center; padding: 10px;">
+        <p><font size="4">Explore similar products from our collection:</font></p>
+        
+      <!-- Related Product 1 -->
+        <a href="https://www.ebay.com/itm/387553707129  " target="_blank">
+            <img src="https://i.ibb.co/zH3VTW1/1.jpg" alt=" Nativity Set wood Decor" style="width: 100px; height: auto; margin: 5px;">
+        </a>      
+<!-- Related Product 2 -->
+        <a href="https://www.ebay.com/itm/387553868651" target="_blank">
+            <img src="https://i.ibb.co/mRxXYyH/Whats-App-Image-2023-11-04-at-11-03-04-AM-1000x1333-4.png" alt="Silver Nativity Decor" style="width: 100px; height: auto; margin: 5px;">
+        </a>
+
+<!-- Related Product 3 -->
+        <a href="https://www.ebay.com/itm/387553963250" target="_blank">
+            <img src="https://i.ibb.co/F57Kz5n/000.png" alt="Wooden Nativity Scene" style="width: 100px; height: auto; margin: 5px;">
+        </a>
+
+<!-- Related Product 4 -->
+        <a href="https://www.ebay.com/itm/387553668214" target="_blank">
+            <img src="https://i.ibb.co/NmTPTY8/6543.png" alt="Baby Jesus" style="width: 100px; height: auto; margin: 5px;">
+        </a>
+
+        
+        <!-- Related Product 5 -->
+        <a href="https://www.ebay.com/itm/387550240117" target="_blank">
+            <img src="https://i.ibb.co/bgkXDvc/Whats-App-Image-2023-11-04-at-11-03-04-AM-1000x1333-4-4.png" alt="Baby Jesus sit" style="width: 100px; height: auto; margin: 5px;">
+        </a>
+
+<!-- Related Product 6 -->
+        <a href="https://www.ebay.com/itm/387550430913" target="_blank">
+            <img src="https://i.ibb.co/99xwnsg/Whats-App-Image-2023-11-04-at-11-03-04-AM-1000x1333-6-3-upscaled.jpg" alt="Baby Jesus w Lamp" style="width: 100px; height: auto; margin: 5px;">
+        </a>
+
+
+<!-- Related Product 7 -->
+        <a href="https://www.ebay.com/itm/387551039689" target="_blank">
+            <img src="https://i.ibb.co/xYYq0TR/Whats-App-Image-2023-11-04-at-11-03-04-AM-1000x1333-3-2.png" alt="Bethlehem City Ornament" style="width: 100px; height: auto; margin: 5px;">
+        </a>
+
+        <!-- Add more products as needed -->
+
+<p></p></div></article></div><!---SIDE BOX---><div id="sidebox"><article id="article" class="bubble">
+<div class="rectangle"><h2 id="h2"><font size="4">Categories</font></h2></div><div class="triangle-l"></div><div id="sd"><ul class="sidenav">
+<!-------------------CATEGORIES MENU--START------------>
+<!----Please check manual for more information--------->
+
+<li><a href="https://www.ebay.com/str/holylandblessings/Olive-Wood-Products/_i.html?store_cat=83059311013" target="_blank">Olive Wood Products</a></li>
+<li><a href="https://www.ebay.com/str/holylandblessings/Jewelry/_i.html?store_cat=83068753013" target="_blank">Jewelry</a></li>
+<li><a href="https://www.ebay.com/str/holylandblessings/Holy-Anointing-Oil/_i.html?store_cat=83059312013" target="_blank">Holy &amp; Anointing Oil</a></li>
+<li><a href="https://www.ebay.com/str/holylandblessings/Holy-Water/_i.html?store_cat=83059314013" target="_blank">Holy Water</a></li>
+<li><a href="https://www.ebay.com/str/holylandblessings/Holy-Soil/_i.html?store_cat=83068785013" target="_blank">Holy Soil</a></li>
+<li><a href="https://www.ebay.com/str/holylandblessings/Mother-of-Pearl-Products/_i.html?store_cat=83059376013" target="_blank">Mother of Pearl Products</a></li>
+<li><a href="https://www.ebay.com/str/holylandblessings/Religious-Icons/_i.html?store_cat=83059360013" target="_blank">Religious Icons</a></li>
+<li><a href="https://www.ebay.com/str/holylandblessings/Religious-Posters/_i.html?store_cat=83059361013" target="_blank">Religious Posters</a></li>
+<li><a href="https://www.ebay.com/str/holylandblessings/Magnets/_i.html?store_cat=83059364013" target="_blank">Magnets</a></li>
+<li><a href="https://www.ebay.com/str/holylandblessings/Antiques/_i.html?store_cat=83059369013" target="_blank">Antiques</a></li>
+<li><a href="https://www.ebay.com/str/holylandblessings/Christmas-Items/_i.html?store_cat=83059450013" target="_blank">Christmas Items</a></li>
+<li><a href="https://www.ebay.com/str/holylandblessings/Skincare-Products/_i.html?store_cat=83068832013" target="_blank">Skincare Products</a></li>
+<li><a href="https://www.ebay.com/str/holylandblessings/Figurine/_i.html?store_cat=83068853013" target="_blank">Figurine</a></li>
+<li><a href="https://www.ebay.com/str/holylandblessings/Rosaries/_i.html?store_cat=83068869013" target="_blank">Rosaries</a></li>
+<li><a href="https://www.ebay.com/str/holylandblessings/Crafts/_i.html?store_cat=83068913013" target="_blank">Crafts</a></li>
+<li><a href="https://www.ebay.com/str/holylandblessings/Books-Maps/_i.html?store_cat=83068876013" target="_blank">Books &amp; Maps</a></li>
+
+<!-------------------CATEGORIES MENU--END------------>
+</ul></div></article><article id="article" class="bubble">
+<div class="rectangle"><h2 id="h2"><font size="4">Follow us for exclusive discounts!<br></font></h2></div><div class="triangle-l"></div><div id="sd"><center>
+<p align="center"> Stay updated with our seasonal offers and save on your favorite handcrafted items. Don't miss out—follow our store for the best deals by clicking the heart button!</p>
+<!-------------------NEWSLETTERS LINK --START---------------------------------------->
+
+<a href="https://www.ebay.com/str/holylandblessings" target="_blank">
+
+<!-------------------NEWSLETTERS LINK --END---------------------------------------->
+<button class="btn">Follow Us!</button></a><br><center></center></center></div>
+</article><article><br><div id="lbnr"><center>
+<!-------------------LEFT SIDE BANNER--START---------->
+
+<img src="https://d.img.vision/ebayolive/Green_and_White_Wedding_Retractable_Banner.gif">
+
+<!-------------------LEFT SIDE BANNER--END------------>
+
+</center></div><br></article></div><!---/SIDE BOX--->
+<div style="clear: both;"></div><br><footer id="footer"><h1 id="h1">
+<!-------------------STORE NAME START------------------->
+
+
+
+<!-------------------STORE NAME END------------------->
+
+<!-------------------STORE NAME START------------------->
+
+
+
+<!-------------------STORE NAME END------------------->
+</h1></footer></div>
